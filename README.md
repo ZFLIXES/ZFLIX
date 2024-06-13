@@ -15,5 +15,15 @@ Gran catálogo, con una amplia cantidad de contenido diariamente actualizado, me
 # LINK DE LA WEB
 - https://dev-zflixes.pantheonsite.io/
 
-# IMAGEN
-![image](https://github.com/ZFLIXES/ZFLIX/assets/159496453/90580ee7-9b30-487c-817f-cc300bf4b8f9)
+# IMAGENES
+
+**VISTA DE ESCRITORIO**
+
+![image](https://github.com/ZFLIXES/ZFLIX/assets/159496453/6472485f-36b1-4116-97ed-1a461fbfed91)
+
+
+** **
+
+**VISTA DE MOVIL**
+
+![image](https://github.com/ZFLIXES/ZFLIX/assets/159496453/aca46ea3-baf7-4da0-9194-1e1609914abe)
